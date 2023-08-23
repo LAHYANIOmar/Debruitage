@@ -16,4 +16,5 @@ de certains pixels (répartis d’une manière aléatoire dans l’image) à la 
 
 # Méthodes de débruitage
 Non-local means denoising.
+
 Filtre median.
