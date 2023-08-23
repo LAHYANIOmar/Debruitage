@@ -13,3 +13,7 @@ La 2  ́eme méthode s’appelle bruit poivre et sel et comme son nom indique.
 il s’agit de tacheter l’image en blanc ou en noir. C’est un bruit impulsionnel qui altère aléatoirement une image num ́erique, faisant passer l’intensité
 de certains pixels (répartis d’une manière aléatoire dans l’image) à la valeur minimum ou maximum de la plage dynamique du pixel, respectivement 0 et
 255 dans le cas d’une image num ́erique cod ́ee en 8-bits.Le bruit poivre et sel qui apparait dans une image numérique est du soit à des erreurs de transmission de données, soit au dysfonctionnement ou à la présence de particules fines sur les  ́eléments du capteur de la caméra ou à des emplacements mémoire défectueux dans le matériel.
+
+# Méthodes de débruitage
+Non-local means denoising
+Filtre median
