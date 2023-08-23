@@ -15,6 +15,6 @@ de certains pixels (répartis d’une manière aléatoire dans l’image) à la 
 255 dans le cas d’une image num ́erique cod ́ee en 8-bits.Le bruit poivre et sel qui apparait dans une image numérique est du soit à des erreurs de transmission de données, soit au dysfonctionnement ou à la présence de particules fines sur les  ́eléments du capteur de la caméra ou à des emplacements mémoire défectueux dans le matériel.
 
 # Méthodes de débruitage
-Non-local means denoising.//
+Non-local means denoising.
 
 Filtre median.
